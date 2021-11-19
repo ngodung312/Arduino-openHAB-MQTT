@@ -1,7 +1,7 @@
 # Arduino-openHAB-MQTT
 Project: Smart Lighting System with ESP8266, openHAB, MQTT.
 
-This is a final project in one of my course: Computer Research Project - CNBU003.L21.ATBC. 
+This is a final project in one of my course: Computer Research Project - CNBU003.L21.ATBC (28/06/2021 - 28/08/2021)
 
 I built a simple smart lighting system that has two rooms: a living room and a bedroom. In each room, there were a LED, a switch and a motion sensor. Through openHAB interfaces (iOS app, Basic UI, etc.), the users can see the current date-time, turn on/off LEDs, enable/disable motion sensors and enable/disable app notifications.
 
